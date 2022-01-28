@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index"
+  },
+  "author": "naman",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.0",
+    "mongoose": "^6.1.8",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.6.5"
+  }
+}
