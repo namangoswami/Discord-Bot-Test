@@ -11,6 +11,9 @@
   },
   "author": "naman",
   "license": "ISC",
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "discord.js": "^13.6.0",
     "dotenv": "^14.3.0",
